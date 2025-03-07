@@ -1,6 +1,7 @@
-name = input("enter your name: " ) # ვიგებთ სახელს
-print("hello," + name) 
-surname = input("enter your surname: ") #ვიგებთ გვარს
-print("thanks")
-age = input("enter your age: ") #ვიგებთ ასაკს
-print("thank you for your time," + name)
+num1 = int(input("enter your first number: "))
+num2 = int(input("enter your second number: "))
+
+print(num1 + num2)
+print(num1 * num2)
+print(num1 / num2)
+print(num1 - num2)
