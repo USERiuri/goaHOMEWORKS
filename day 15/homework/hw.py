@@ -1,0 +1,6 @@
+world1 = input("enter a word: ")
+world2 = input("enter a word: ")
+world3 = input("enter a word: ")
+print(world1.upper())
+print(world2.lower())
+print(world3.capitalize())
